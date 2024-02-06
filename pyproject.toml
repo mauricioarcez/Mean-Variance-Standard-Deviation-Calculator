@@ -2,7 +2,7 @@
 name = "fcc-mean-var-std"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Mauricio Arce <mauricioarcez23@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
